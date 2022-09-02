@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Front-end.
-- ❤ Apaixonada por tecnologia.
+- ❤ Apaixonada por tecnologia, games e esporte.
 - 🌱 Estudando Angular
 - 📞 Contato: (34) 99697-4922
 
