@@ -2,8 +2,8 @@
 
 
 - Desenvolvedor Front-end.
-- Apaixonada por tecnologia, games e esporte.
-- Estudando Angular
+- Apaixonado por tecnologia, games e esporte.
+- Estudando Kotlin
 - Contato: (34) 99697-4922
 
 ### 📊 GitHub Analytics
