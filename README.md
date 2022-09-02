@@ -1,5 +1,6 @@
 ## OLá, Eu sou o José Victor!
 
+
 - 🔭 Desenvolvedor Front-end.
 - ❤ Apaixonada por tecnologia.
 - 🌱 Estudando Angular
