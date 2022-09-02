@@ -1,10 +1,15 @@
 ## OLá, Eu sou o José Victor!
 
+##
 
-- 🔭 Desenvolvedor Front-end.
-- ❤ Apaixonada por tecnologia, games e esporte.
-- 🌱 Estudando Angular
-- 📞 Contato: (34) 99697-4922
+- Desenvolvedor Front-end.
+- Apaixonada por tecnologia, games e esporte.
+- Estudando Angular
+- Contato: (34) 99697-4922
+
+### 📊 GitHub Analytics
+
+##
 
 
 <div align="center">
