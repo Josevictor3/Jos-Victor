@@ -1,4 +1,12 @@
 ## OLá, Eu sou o José Victor!
+
+##
+
+- 🔭 Desenvolvedor Front-end.
+- ❤ Apaixonada por tecnologia.
+- 🌱 Estudando Angular
+- 📞 Contato: (34) 99697-4922
+
 <div align="center">
   <a href="https://github.com/josevictor3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevictor3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
