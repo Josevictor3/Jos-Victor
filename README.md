@@ -1,7 +1,7 @@
 ## Olá, Eu sou o José Victor!
 
 
-- Desenvolvedor.
+🖥️ Desenvolvedor.
 - Apaixonado por tecnologia, games e esporte.
 - Estudando Kotlin
 - Contato: (34) 99697-4922
