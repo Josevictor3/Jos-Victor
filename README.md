@@ -1,7 +1,7 @@
 ## Olá, Eu sou o José Victor!
 
 
-- Desenvolvedor Front-end.
+- Desenvolvedor.
 - Apaixonado por tecnologia, games e esporte.
 - Estudando Kotlin
 - Contato: (34) 99697-4922
@@ -18,6 +18,7 @@
 </div>
     
 ### 🏆 Tecnologias
+
 ##
   
 <div style="display: inline_block"><br>
