@@ -2,9 +2,9 @@
 
 
 🖥️ Desenvolvedor.
-- Apaixonado por tecnologia, games e esporte.
-- Estudando Kotlin
-- Contato: (34) 99697-4922
+🕹️ Apaixonado por tecnologia, games e esporte.
+📱 Estudando Kotlin
+☎️ Contato: (34) 99697-4922
 
 ### 📊 GitHub Analytics
 
